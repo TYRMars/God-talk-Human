@@ -7,4 +7,4 @@
 ### React
 
 ## 更新状态
-* [CSS - 学习思路 - 2017.7.13](https://github.com/setcamp/God-talk-Human/CSS/)
+* [CSS - 学习思路 - 2017.7.13](https://github.com/setcamp/God-talk-Human/tree/master/CSS#2017-7-13)
